@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>yaorongke</title>
+    <title>NOTHUMAN/title>
 </head>
 <body>
     <h1>NOTHUMAN的个人主页</h1>

@@ -27,7 +27,10 @@ jobs:
       - name: Build site
         run: |
           mkdir -p _site
-          cp -r ./* _site
+          find . -maxdepth 1 \
+            ! -name '_site' \
+            ! -name '.' \
+            -exec cp -r {} _site/ \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

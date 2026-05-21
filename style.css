@@ -3,16 +3,8 @@ body {
     margin: 0;
     background: #f4f4f4;
     color: #333;
+    
 }
-
-/* Header */
-header {
-    background: #111;
-    color: white;
-    padding: 40px;
-    text-align: center;
-}
-
 /* Navigation */
 nav {
     background: #222;
@@ -53,12 +45,6 @@ footer {
     padding: 20px;
     font-size: 14px;
 }
-
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
 /* Header */
 header {
     background: #111;
@@ -81,6 +67,9 @@ header {
     background: #f0f0f0;
     padding: 15px;
     border-radius: 10px;
+    position: sticky;
+    top: 20px;
+    height: fit-content;
 }
 
 .sidebar a{

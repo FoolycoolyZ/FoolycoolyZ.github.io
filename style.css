@@ -85,6 +85,9 @@ header {
 
 .sidebar a{
     display: inline-block;
+    margin: 0px 0;
+    padding: 0px 0;
+    line-height: 0.5;
     margin-top: 10px;
     color: #0077ff;
 }

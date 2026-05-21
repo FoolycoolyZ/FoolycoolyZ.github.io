@@ -1,2 +1,3 @@
 # FoolycoolyZ.github.io
 Just a personal blog
+I'm about add something on this...

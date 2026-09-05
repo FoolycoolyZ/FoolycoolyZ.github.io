@@ -61,6 +61,13 @@ header {
     gap: 20px;
 }
 
+.article-date {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-left: 10px;
+}
+
 /* Sidebar */
 .sidebar {
     width: 250px;
